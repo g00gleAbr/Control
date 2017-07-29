@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mi casa</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="invalid_email">Este correo es invalido</string>
+    <string name="invalid_password">La contraseña es muy corta</string>
+    <string name="incorrect_password">Contraseña incorrecta</string>
+    <string name="field_required">Este campo es requerido</string>
+    <string name="login_error">Error de inicio</string>
+    <string name="action_logout">Cerrar sesión</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="green">Verde</string>
+    <string name="red">Rojo</string>
+    <string name="auth_failed">Autenticación fallida.</string>
+    <string name="blue">Azul</string>
+</resources>

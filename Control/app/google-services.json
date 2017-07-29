@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "40848877751",
+    "firebase_url": "https://internetot-cab61.firebaseio.com",
+    "project_id": "internetot-cab61",
+    "storage_bucket": "internetot-cab61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40848877751:android:6ec8319719906725",
+        "android_client_info": {
+          "package_name": "com.example.control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40848877751-bp1h3qfskip0j4sgkr1nput7ubgbuqdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtMzw9CowUUooUmbR4nCaAwc0N9-B545Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
